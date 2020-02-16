@@ -28,6 +28,6 @@
 	
 	<img src="./assets/f-GAN_KLD_7ep.png" width="300" height="300">
 	
-	Mode collapse occurs after 7 epochs for Kullback-Leibler divergence objective.
-	This is the result of 7 epochs of Kullback-Leibler divergence objective.
+	Mode collapse occurs after 7 epochs for Kullback-Leibler divergence objective.<br>
+	This is the result of 7 epochs result of Kullback-Leibler divergence objective.
 
