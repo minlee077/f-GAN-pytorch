@@ -4,8 +4,7 @@
 
 ## Result
 
-
-### 1 epochs
+ - 1 epochs
  
     Kullback-Leibler                                | Reverse-KL                                    | Pearson-X2
     :---:                                           | :---:                                         | :---:
